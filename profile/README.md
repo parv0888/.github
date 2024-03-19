@@ -17,7 +17,7 @@ There are 5 non user facing services that enable this:
 5. [ccdexplorer-statistics](#ccdexplorer-statistics)
 
 ## ccdexplorer-site
-Todo.
+Please visit [the repo](https://github.com/ccdexplorer/ccdexplorer-site/blob/main/README.md) for more information.
 
 ## ccdexplorer-api
 Todo.
