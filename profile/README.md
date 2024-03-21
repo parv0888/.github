@@ -20,10 +20,10 @@ There are 5 non user facing services that enable this:
 Please visit [the repo](https://github.com/ccdexplorer/ccdexplorer-site/blob/main/README.md) for more information.
 
 ## ccdexplorer-api
-Todo.
+Please visit [the repo](https://github.com/ccdexplorer/ccdexplorer-api/blob/main/README.md) for more information.
 
 ## ccdexplorer-bot
-Todo.
+Please visit [the repo](https://github.com/ccdexplorer/ccdexplorer-bot/blob/main/README.md) for more information.
 
 ## ccdexplorer-heartbeat
 This repo is the `heartbeat` of CCDExplorer Universe, filling the db with blocks, transactions and much more. Please visit [the repo](https://github.com/ccdexplorer/ccdexplorer-heartbeat/blob/main/README.md) for more information.
