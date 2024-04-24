@@ -81,5 +81,41 @@
                 "account_address": "4a2Vz5aQEpHRduM6sMP4RsWCYavD1dqzoDteb5dmon7GBsh636"
             }
         ]
+    },
+    "climafi": {
+        "display_name": "ClimaFi",
+        "url": "https://climafi.org",
+        "mainnet": [
+            {
+                "type": "account_address",
+                "account_index": 98191,
+                "account_address": "3RxDfkPcyN9VV9yr22Z6xR6ZuJTsC5yiPfr55sRMZE8RwKcUEf"
+            },
+            {
+                "type": "account_address",
+                "account_index": 98494,
+                "account_address": "3Ur6834bBUvV69UcYsHmSnZZuGEBWCoMZnkMohSv483scG8z1J"
+            },
+            {
+                "type": "account_address",
+                "account_index": 98495,
+                "account_address": "3x6sYwXXBCzGhxE2Wb9BfsebE31RSqDxWRuGNBVnhG6HGyZE3y"
+            },
+            {
+                "type": "account_address",
+                "account_index": 98493,
+                "account_address": "3XUhmUY1HZR29nRWNAySHFghmPBJhPBzu3k7hPuJuvoDtWZoFT"
+            },
+            {
+                "type": "account_address",
+                "account_index": 96200,
+                "account_address": "4Uhb4wfUy67rXAP9ZhEh85nnepqM7BRiW5bgtKGopxQLz8GbSF"
+            },
+            {
+                "type": "contract_address",
+                "contract_index": 9456,
+                "contract_address": "<9456,0>"
+            }
+        ]
     }
 }
