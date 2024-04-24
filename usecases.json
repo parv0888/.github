@@ -1,85 +1,121 @@
 {
-    "provenance": {
-        "display_name": "Provenance Tags",
-        "url": "https://ptagchain.io/",
-        "mainnet": [
-            {
-                "type": "account_address",
-                "account_index": 86568,
-                "account_address": "3suZfxcME62akyyss72hjNhkzXeZuyhoyQz1tvNSXY2yxvwo53"
-            },
-            {
-                "type": "account_address",
-                "account_index": 97853,
-                "account_address": "3HHSRLLTWVG4TXb1GEWyEsWw549ayc3iMHf7ZqGYfTJo96n5xV"
-            },
-            {
-                "type": "account_address",
-                "account_index": 97854,
-                "account_address": "4r8hoe1T72Qye8TsYKwBF7hKhRfdkf651nSu7kJKhVPoQrXc64"
-            },
-            {
-                "type": "account_address",
-                "account_index": 97855,
-                "account_address": "3weHXYntuExNYHy5EXNJMZT6ECS2oi2zpX7yPA8E6V8JNGQuQV"
-            },
-            {
-                "type": "account_address",
-                "account_index": 97856,
-                "account_address": "3pxLyY8JErhA3HS1u6XUnZy99KscMsHykzG6LNMEzvvMaX7ohy"
-            },
-            {
-                "type": "account_address",
-                "account_index": 97857,
-                "account_address": "3DUA7wRR1NTh8gz1wWGm9Kx8HNtimpEAk1BdGGfLpdicRXy3PG"
-            },
-            {
-                "type": "account_address",
-                "account_index": 98056,
-                "account_address": "3u65p8VnwZHNf7SrP3rEQQ9BaWppSk7zthmw6LU746ucHzXGUo"
-            },
-            {
-                "type": "account_address",
-                "account_index": 98057,
-                "account_address": "3MzJNGzWn7rPLQG3SejPrhuECuoRGeqBbsZm6WkCVjsSjFGFvo"
-            },
-            {
-                "type": "contract_address",
-                "contract_index": 8590,
-                "contract_address": "<8590,0>"
-            },
-            {
-                "type": "contract_address",
-                "contract_index": 9403,
-                "contract_address": "<9403,0>"
-            },
-            {
-                "type": "contract_address",
-                "contract_index": 8588,
-                "contract_address": "<8588,0>"
-            }
-        ]
-    },
-    "aesirx": {
-        "display_name": "AESIRX",
-        "url": "https://aesirx.io",
-        "mainnet": [
-            {
-                "type": "account_address",
-                "account_index": 88533,
-                "account_address": "4MwARWeXdMs3YZ5MPPn2561ceani6AJAVTNPtwS6tceaG2qatK"
-            }
-        ]
-    },
-    "dsid": {
-        "display_name": "digitalsocial.id\ud804\udc4d",
-        "url": "",
-        "mainnet": [
-            {
-                "type": "account_address",
-                "account_index": 92351,
-                "account_address": "4a2Vz5aQEpHRduM6sMP4RsWCYavD1dqzoDteb5dmon7GBsh636"
-            }
-        ]
-    }
+	"provenance": {
+		"display_name": "Provenance Tags",
+		"url": "https://ptagchain.io/",
+		"mainnet": [
+			{
+				"type": "account_address",
+				"account_index": 86568,
+				"account_address": "3suZfxcME62akyyss72hjNhkzXeZuyhoyQz1tvNSXY2yxvwo53"
+			},
+			{
+				"type": "account_address",
+				"account_index": 97853,
+				"account_address": "3HHSRLLTWVG4TXb1GEWyEsWw549ayc3iMHf7ZqGYfTJo96n5xV"
+			},
+			{
+				"type": "account_address",
+				"account_index": 97854,
+				"account_address": "4r8hoe1T72Qye8TsYKwBF7hKhRfdkf651nSu7kJKhVPoQrXc64"
+			},
+			{
+				"type": "account_address",
+				"account_index": 97855,
+				"account_address": "3weHXYntuExNYHy5EXNJMZT6ECS2oi2zpX7yPA8E6V8JNGQuQV"
+			},
+			{
+				"type": "account_address",
+				"account_index": 97856,
+				"account_address": "3pxLyY8JErhA3HS1u6XUnZy99KscMsHykzG6LNMEzvvMaX7ohy"
+			},
+			{
+				"type": "account_address",
+				"account_index": 97857,
+				"account_address": "3DUA7wRR1NTh8gz1wWGm9Kx8HNtimpEAk1BdGGfLpdicRXy3PG"
+			},
+			{
+				"type": "account_address",
+				"account_index": 98056,
+				"account_address": "3u65p8VnwZHNf7SrP3rEQQ9BaWppSk7zthmw6LU746ucHzXGUo"
+			},
+			{
+				"type": "account_address",
+				"account_index": 98057,
+				"account_address": "3MzJNGzWn7rPLQG3SejPrhuECuoRGeqBbsZm6WkCVjsSjFGFvo"
+			},
+			{
+				"type": "contract_address",
+				"contract_index": 8590,
+				"contract_address": "<8590,0>"
+			},
+			{
+				"type": "contract_address",
+				"contract_index": 9403,
+				"contract_address": "<9403,0>"
+			},
+			{
+				"type": "contract_address",
+				"contract_index": 8588,
+				"contract_address": "<8588,0>"
+			}
+		]
+	},
+	"aesirx": {
+		"display_name": "AESIRX",
+		"url": "https://aesirx.io",
+		"mainnet": [
+			{
+				"type": "account_address",
+				"account_index": 88533,
+				"account_address": "4MwARWeXdMs3YZ5MPPn2561ceani6AJAVTNPtwS6tceaG2qatK"
+			}
+		]
+	},
+	"dsid": {
+		"display_name": "digitalsocial.id\ud804\udc4d",
+		"url": "",
+		"mainnet": [
+			{
+				"type": "account_address",
+				"account_index": 92351,
+				"account_address": "4a2Vz5aQEpHRduM6sMP4RsWCYavD1dqzoDteb5dmon7GBsh636"
+			}
+		]
+	},
+	"climafi": {
+		"display_name": "ClimaFi",
+		"url": "https://climafi.org",
+		"mainnet": [
+			{
+				"type": "account_address",
+				"account_index": 98191,
+				"account_address": "3RxDfkPcyN9VV9yr22Z6xR6ZuJTsC5yiPfr55sRMZE8RwKcUEf"
+			},
+			{
+				"type": "account_address",
+				"account_index": 98494,
+				"account_address": "3Ur6834bBUvV69UcYsHmSnZZuGEBWCoMZnkMohSv483scG8z1J"
+			},
+			{
+				"type": "account_address",
+				"account_index": 98495,
+				"account_address": "3x6sYwXXBCzGhxE2Wb9BfsebE31RSqDxWRuGNBVnhG6HGyZE3y"
+			},
+			{
+				"type": "account_address",
+				"account_index": 98493,
+				"account_address": "3XUhmUY1HZR29nRWNAySHFghmPBJhPBzu3k7hPuJuvoDtWZoFT"
+			},
+			{
+				"type": "account_address",
+				"account_index": 96200,
+				"account_address": "4Uhb4wfUy67rXAP9ZhEh85nnepqM7BRiW5bgtKGopxQLz8GbSF"
+			},
+			{
+				"type": "contract_address",
+				"contract_index": 9456,
+				"contract_address": "<9456,0>"
+			}
+		]
+	}
 }
